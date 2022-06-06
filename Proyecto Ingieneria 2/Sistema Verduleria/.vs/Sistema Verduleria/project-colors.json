@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0bdfcf21-3a27-4935-ab8a-81236162ba55": {
+      "ProjectGuid": "0bdfcf21-3a27-4935-ab8a-81236162ba55",
+      "DisplayName": "CapaLogica",
+      "ColorIndex": 0
+    },
+    "fa7d6542-89ac-45d5-8821-7e745040f031": {
+      "ProjectGuid": "fa7d6542-89ac-45d5-8821-7e745040f031",
+      "DisplayName": "CapaIntegracion",
+      "ColorIndex": 1
+    },
+    "88d5ba08-556a-4517-b274-560c6ed38526": {
+      "ProjectGuid": "88d5ba08-556a-4517-b274-560c6ed38526",
+      "DisplayName": "Sistema Facturación",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "08883dda-bc62-488b-a9d9-7abd05454ac5": {
+      "ProjectGuid": "08883dda-bc62-488b-a9d9-7abd05454ac5",
+      "DisplayName": "CapaConexion",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

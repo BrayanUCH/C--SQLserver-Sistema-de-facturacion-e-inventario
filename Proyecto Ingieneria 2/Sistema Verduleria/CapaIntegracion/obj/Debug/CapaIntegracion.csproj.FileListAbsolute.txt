@@ -1,0 +1,140 @@
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V3 (1)\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V3 (1)\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V3 (1)\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V3 (1)\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V3 (1)\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V3 (1)\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V3 (1)\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\GOMEZ\Documents\3. Ingeniería ll\Proyecto Ingieneria 2 V4\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V6\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V6\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V6\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V6\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V6\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V6\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V6\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V8\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V8\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V8\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V8\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V8\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V8\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2 V8\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V10\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V10\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V10\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V10\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V10\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V10\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V10\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V15\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V15\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V15\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V15\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V15\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V15\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V15\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V17\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V17\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V17\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V17\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V17\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V17\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V17\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V18\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V18\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V18\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V18\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V18\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V18\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V18\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V19\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V19\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V19\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V19\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V19\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V19\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V19\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V20\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V20\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V20\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V20\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V20\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V20\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V20\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V21\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V21\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V21\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V21\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V21\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V21\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V21\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V23\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V23\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V23\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V23\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V23\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V23\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V23\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V28\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V28\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V28\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V28\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V28\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V28\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V28\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V36\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V36\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaIntegracion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V36\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V36\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V36\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V36\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V36\Proyecto Ingieneria 2\Sistema Verduleria\CapaIntegracion\obj\Debug\CapaIntegracion.pdb

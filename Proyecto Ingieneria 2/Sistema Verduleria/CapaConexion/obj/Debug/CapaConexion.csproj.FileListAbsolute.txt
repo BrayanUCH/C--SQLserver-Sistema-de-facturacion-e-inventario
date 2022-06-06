@@ -1,0 +1,30 @@
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.dll
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.pdb
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Brandon\Desktop\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.pdb
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\braya\Escritorio\Proyecto Ingieneria 2 V22\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V31\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\Bibliotecas\CapaConexion.pdb
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\braya\Desktop\Proyecto Ingieneria 2 V32\Proyecto Ingieneria 2\Sistema Verduleria\CapaConexion\obj\Debug\CapaConexion.pdb
